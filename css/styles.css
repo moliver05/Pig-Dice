@@ -1,0 +1,28 @@
+
+.player-console {
+  display: none;
+}
+
+
+body {
+    background-image: url(https://images3.alphacoders.com/210/210569.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+}
+
+#player-1 {
+  color: yellow;
+  font-style: italic;
+}
+
+#player-2 {
+  font-style: italic;
+  color: yellow;
+}
